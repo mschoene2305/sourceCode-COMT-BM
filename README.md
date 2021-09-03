@@ -1,5 +1,5 @@
 # sourceCode-COMT-BM
-Here you can download the source code of the paper "Curvatur-Oriented Splitting for Multivariate Model Trees"
+Here you can download the source code of the paper "Curvature-Oriented Splitting for Multivariate Model Trees"
 
 Due to the availability of existing functions to construct the models for benchmarking, we use different environments for the experimental analysis.
 The main part is performed in Matlab, in which COMT, LSRT and CART are estimated by custom implemented functions, and M5' by the toolbox M5PrimeLab.
